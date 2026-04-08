@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f3460&height=200&section=header&text=Yahya%20Al-Nuaimi&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=.NET%20Backend%20Engineer%20%7C%20Clean%20Architecture%20%7C%20DDD&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f3460&height=200&section=header&text=Yahya%20Al-Nuaimi&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=.NET%20Backend%20Engineer%20%7C%20Clean%20Architecture%20%7C%20Vertical%20Slice%20%7C%20Microservices%20%7C%20Modular%20Monolith%20%7C%20DDD&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+.NET+Ecosystem;Clean+Architecture+%26+Domain-Driven+Design;Building+Scalable%2C+Distributed+Systems;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
