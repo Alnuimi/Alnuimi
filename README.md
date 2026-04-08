@@ -1,83 +1,138 @@
-<!-- Visitor Badge -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<div align="center">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yahya+Al-Nuaimi!;&theme=radical" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f3460&height=200&section=header&text=Yahya%20Al-Nuaimi&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=.NET%20Backend%20Engineer%20%7C%20Clean%20Architecture%20%7C%20DDD&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
 
-<h3 align="center">A passionate full-stack .NET developer from Yemen 🇾🇪</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+.NET+Ecosystem;Clean+Architecture+%26+Domain-Driven+Design;Building+Scalable%2C+Distributed+Systems;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
-  🔭 I’m currently working on building a robust marketplace using <strong>.NET</strong> technologies  
-  <br/>
-  🌱 I’m currently learning <strong>advanced .NET concepts</strong>, <strong>Docker</strong>
-  <br/>
-  💬 Ask me about <strong>ASP.NET Core</strong>, <strong>Entity Framework Core</strong>, <strong>Blazor</strong>, or anything <a href="mailto:yahaialnuimi8@gmail.com">here</a>
-  <br/>
-  ⚡ Fun fact: <strong>Reading</strong>
-</div>
-
-<br/>
-<div align="center"><h3 align="center">Visit    👇 me more</h3></div>
-
-<div align="center"> 
-
-  <a href="mailto:yahaialnuimi8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/yahya-al-nuaimi-5032ba275" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+[![Profile Views](https://komarev.com/ghpvc/?username=Alnuimi&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/Alnuimi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yahya-al-nuaimi-5032ba275)
+[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yahaialnuimi8@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Alnuimi?label=Follow&style=flat-square&color=58a6ff)](https://github.com/Alnuimi)
 
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
+## 👨‍💻 About Me
+
+```csharp
+public class YahyaAlNuaimi : BackendEngineer
+{
+    public string Location      { get; } = "Yemen 🇾🇪";
+    public string[] Focus       { get; } = { "Clean Architecture", "DDD", "Distributed Systems" };
+    public string[] CurrentWork { get; } = { "Marketplace Platform (.NET)", "Payment SDK" };
+    public string[] Learning    { get; } = { "Advanced .NET Internals", "Docker & Containers" };
+    public string   Passion     { get; } = "Building systems that scale — and that others enjoy working with";
+    public string   Fun         { get; } = "I read to understand the world, then code to reshape it 📚";
+}
+```
+
+---
+
+## 🧠 Architecture & Expertise
 
 <div align="center">
-    <img src="https://camo.githubusercontent.com/d1c060eef161748ffe94ee1004fb9987437bc68fa40563857493d2a725238c68/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f746e6574636f72652f646f746e6574636f72652d6f726967696e616c2e737667" style="width:5%; height:5%; margin: 5px;" />
-    <img src="https://camo.githubusercontent.com/2d9be2cdbe847aa58cefeb401833777b9330a5d91389066137fc1c84589eabfe/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667" style="width:5%; height:5%; margin: 5px;" />
-    <img src="https://camo.githubusercontent.com/649c79ee7a63c501daf05a190f4ac557d1e75988a808482691c5c6c5a3064b0c/68747470733a2f2f63646e2e63646e6c6f676f2e636f6d2f6c6f676f732f6d2f32312f6d6963726f736f66742d73716c2d7365727665722e737667" style="width:5%; height:5%; margin: 5px;" />
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style="width:5%; height:5%; margin: 5px;" />
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="width:5%; height:5%; margin: 5px;" />
-    <img src="https://img.icons8.com/color/48/000000/css3.png" style="width:5%; height:5%; margin: 5px;" />
-    <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" style="width:5%; height:5%; margin: 5px;" />
-    <img src="https://github.com/user-attachments/assets/e621f7f1-3a95-412d-8166-df255f8549aa" style="width:5%; height:5%; margin: 5px;" />
-    <img src="https://github.com/user-attachments/assets/4e54623b-68fe-4df5-aa60-72e296d4b93a" style="width:5%; height:5%; margin: 5px;" />
-    <img src="https://img.icons8.com/color/48/000000/docker.png" style="width:5%; height:5%; margin: 5px;" />
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" style="width:5%; height:5%; margin: 5px;" />
-    <img src="https://camo.githubusercontent.com/b757f08684d4442218bd04f3bb04cc0e142d0551619c678ff44304027085bb47/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d6f726967696e616c2e737667" style="width:5%; height:5%; margin: 7px;" />
-    <img src="https://img.icons8.com/color/48/000000/git.png" style="width:5%; height:5%; margin: 7px;" />
+
+| Layer | Skills |
+|---|---|
+| **Architecture** | Clean Architecture · DDD · CQRS · Event-Driven |
+| **Backend** | ASP.NET Core · Entity Framework Core · MediatR |
+| **Messaging** | RabbitMQ · Message Queues · Pub/Sub |
+| **Security** | JWT · RBAC · Identity |
+| **Resilience** | Circuit Breaker · Retry · Timeout · Fallback |
+| **Observability** | Serilog · Structured Logging |
+| **Database** | SQL Server · EF Core Migrations · Query Optimization |
+| **DevOps** | Docker · Git · CI/CD |
+
 </div>
 
+---
 
-<hr/>
-
-<h2 align="center">📊 GitHub Stats</h2>
+## ⚒️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alnuimi&show_icons=true&theme=radical" alt="GitHub Stats"/>
+
+### Core
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Database & Messaging
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Frontend (Supporting)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 </div>
 
-<br/>
+---
 
-
-<h2 align="center">🧑‍💻 Most Used Languages</h2>
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alnuimi&layout=compact&hide=html&theme=radical" />
+
+[![B2BEcommercePlatform](https://github-readme-stats.vercel.app/api/pin/?username=Alnuimi&repo=MarketplaceAPI&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff)](https://github.com/Alnuimi)
+
 </div>
 
-<hr/>
+> 💡 **B2BEcommercePlatform** — This platform enables business-to-business transactions, supporting multiple buyer organizations purchasing from supplier organizations. The system handles product catalogs, pricing tiers, bulk ordering, quote management, invoicing, and business account management.
 
-<h2 align="center">⚡ GitHub Streak Stats ⚡</h2>
-<br/>
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Alnuimi&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alnuimi&show_icons=true&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alnuimi&layout=compact&theme=github_dark&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide=html&langs_count=8"/>
+
 </div>
 
-<hr/>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alnuimi&theme=github-dark-blue&border=30363d&stroke=30363d&ring=58a6ff&fire=ff7b54&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&background=0d1117" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Alnuimi&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alnuimi&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b54&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f2e,100:0d1117&height=120&section=footer&text=Let's+Build+Something+Great&fontSize=24&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+</div>
