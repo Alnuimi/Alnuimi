@@ -21,8 +21,8 @@
 public class YahyaAlNuaimi : BackendEngineer
 {
     public string Location      { get; } = "Yemen 🇾🇪";
-    public string[] Focus       { get; } = { "Clean Architecture", "DDD", "Distributed Systems" };
-    public string[] CurrentWork { get; } = { "Marketplace Platform (.NET)", "Payment SDK" };
+    public string[] Focus       { get; } = { "Clean Architecture","Vertical Slice"," Microservices","Modular Monolith", "DDD", "Distributed Systems" };
+    public string[] CurrentWork { get; } = { "Articles (.NET)", "B2BEcommercePlatform" };
     public string[] Learning    { get; } = { "Advanced .NET Internals", "Docker & Containers" };
     public string   Passion     { get; } = "Building systems that scale — and that others enjoy working with";
     public string   Fun         { get; } = "I read to understand the world, then code to reshape it 📚";
@@ -37,7 +37,7 @@ public class YahyaAlNuaimi : BackendEngineer
 
 | Layer | Skills |
 |---|---|
-| **Architecture** | Clean Architecture · DDD · CQRS · Event-Driven |
+| **Architecture** | Clean Architecture · Vertical Slice ·  Microservices · Modular Monolith · DDD · CQRS · Event-Driven |
 | **Backend** | ASP.NET Core · Entity Framework Core · MediatR |
 | **Messaging** | RabbitMQ · Message Queues · Pub/Sub |
 | **Security** | JWT · RBAC · Identity |
